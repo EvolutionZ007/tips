@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"adstatus": "1",
+		"admob_adstatus": "1",
+		"ADMOB_APPID": "ca-app-pub-5921645798301011~9153671026",
+		"ADMOB_APPOPEN": "ca-app-pub-5921645798301011/7037314589",
+		"ADMOB_I": "ca-app-pub-5921645798301011/5796879947",
+		"ADMOB_N": "ca-app-pub-5921645798301011/2049206627",
+		"ADMOB_B": "ca-app-pub-5921645798301011/7827652071",
+		"fb_adstatus": "0",
+		"FACEBOOK_I": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FACEBOOK_N": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FACEBOOK_NB": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"app_Backad": "yes",
+		"screen1": "0",
+		"screen2": "0",
+		"screen3": "1",
+		"exitscreen": "1",
+		"exitdialog": "1",
+		"privacyalltime": "0",
+		"needinternet": "1",
+		"app_dialogBeforeAdShow": "1",
+		"data_access": "0",
+		"update_dialog": "1",
+		"update_linkurl": "aqt"
+	}]
+}
