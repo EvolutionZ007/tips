@@ -36,6 +36,7 @@
 		"Inter_count": 0,
 		"Native_Count": 0,
 		"Banner_Count": 0,
+		"Back_Inter_count":0,
 		"onResumeOpenAd": true
 	},
 	"NativeBlink": true,
