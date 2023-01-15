@@ -1,12 +1,12 @@
 {
 	"adstatus": true,
-	"specificad": "Admob",
+	"specificad": true",
 	"alternatead": false,
 	"alternate_data": {
-		"Appopen": "",
-		"Interstrial": "",
-		"Native": "",
-		"Banner": ""
+		"Appopen": "Admob",
+		"Interstrial": "Admob",
+		"Native": "Admob",
+		"Banner": "Admob"
 	},
 	"EvenoddAd": false,
 	"evenodd_data": {
