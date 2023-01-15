@@ -1,12 +1,12 @@
 {
 	"adstatus": true,
-	"specificad": true,
-	"alternatead": false,
+	"specificad": false,
+	"alternatead": true,
 	"alternate_data": {
 		"Appopen": "Admob",
 		"Interstrial": "Admob",
-		"Native": "Admob",
-		"Banner": "Admob"
+		"Native": "Facebook",
+		"Banner": "Facebook"
 	},
 	"EvenoddAd": false,
 	"evenodd_data": {
@@ -41,8 +41,8 @@
 	"NativeBlink": false,
 	"NativeBanner": false,
 	"AdDialog": true,
-	"BackAd": true,
-	"BackAdPlatform": "Admob",
-	"ExtraScreen": "3",
+	"BackAd": false,
+	"BackAdPlatform": "Facebook",
+	"ExtraScreen": "1",
 	"PrivacyPolicy": ""
 }
