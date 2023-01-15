@@ -8,11 +8,6 @@
 		"Native": "Facebook",
 		"Banner": "Facebook"
 	},
-	"EvenoddAd": false,
-	"evenodd_data": {
-		"EvenAd": "Admob",
-		"OddAD": "Facebook"
-	},
 	"Admob": {
 		"Admob_adstatus": true,
 		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
