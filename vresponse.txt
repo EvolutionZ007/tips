@@ -1,48 +1,48 @@
 {
-  "adstatus":true,
-  "specificad":"Admob",
-  "alternatead":false,
-  "alternate_data":{
-    "Appopen":"",
-    "Interstrial":"",
-    "Native":"",
-    "Banner":""
-  },
-  "EvenoddAd":false,
-  "evenodd_data":{
-    "EvenAd":"Admob",
-    "OddAD":"Facebook"
-  },
-  "Admob":{
-    "Admob_adstatus":true,
-    "Admob_Appopen":"ca-app-pub-3940256099942544/3419835294",
-    "Admob_Interstrial":"ca-app-pub-3940256099942544/1033173712",
-    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
-    "Admob_Banner":"ca-app-pub-3940256099942544/6300978111"
-  },
-  "Facebook":{
-    "FB_adstatus":false,
-    "FB_Interstrial":"",
-    "FB_Native":"",
-    "FB_Banner":""
-  },
-  "Applovin":{
-    "Applovin_adstatus":false,
-    "Applovin_Interstrial":"",
-    "Applovin_Native":"",
-    "Applovin_Banner":""
-  },
-  "AdCounter":{
-    "Inter_count":0,
-    "Native_Count":0,
-    "Banner_Count":0,
-    "onResumeOpenAd":true
-  },
-  "NativeBlink":false,
-  "NativeBanner",false,
-  "AdDialog":true,
-  "BackAd":true,
-  "BackAdPlatform":"Admob",
-  "ExtraScreen": "3",
-  "PrivacyPolicy":""
+	"adstatus": true,
+	"specificad": "Admob",
+	"alternatead": false,
+	"alternate_data": {
+		"Appopen": "",
+		"Interstrial": "",
+		"Native": "",
+		"Banner": ""
+	},
+	"EvenoddAd": false,
+	"evenodd_data": {
+		"EvenAd": "Admob",
+		"OddAD": "Facebook"
+	},
+	"Admob": {
+		"Admob_adstatus": true,
+		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
+		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
+		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
+		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"Facebook": {
+		"FB_adstatus": false,
+		"FB_Interstrial": "",
+		"FB_Native": "",
+		"FB_Banner": ""
+	},
+	"Applovin": {
+		"Applovin_adstatus": false,
+		"Applovin_Interstrial": "",
+		"Applovin_Native": "",
+		"Applovin_Banner": ""
+	},
+	"AdCounter": {
+		"Inter_count": 0,
+		"Native_Count": 0,
+		"Banner_Count": 0,
+		"onResumeOpenAd": true
+	},
+	"NativeBlink": false,
+	"NativeBanner": false,
+	"AdDialog": true,
+	"BackAd": true,
+	"BackAdPlatform": "Admob",
+	"ExtraScreen": "3",
+	"PrivacyPolicy": ""
 }
