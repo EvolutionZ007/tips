@@ -42,7 +42,7 @@
 	"NativeBanner": true,
 	"AdDialog": true,
 	"BackAd": true,
-	"BackAdPlatform": "Admob",
+	"BackAdPlatform": "Facebook",
 	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
