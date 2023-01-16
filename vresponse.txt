@@ -1,10 +1,10 @@
 {
 	"adstatus": true,
-	"specificad": true,
-	"alternatead": false,
+	"specificad": false,
+	"alternatead": true,
 	"alternate_data": {
 		"Appopen": "Admob",
-		"Interstrial": "Admob",
+		"Interstrial": "Facebook",
 		"Native": "Facebook",
 		"Banner": "Admob"
 	},
