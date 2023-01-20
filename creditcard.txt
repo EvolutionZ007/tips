@@ -35,7 +35,7 @@
 		"onResumeOpenAd": true
 	},
 	"NativeBlink": false,
-	"NativeBanner": true,
+	"NativeBanner": false,
 	"AdDialog": false,
 	"BackAd": false,
 	"BackAdPlatform": "Admob",
