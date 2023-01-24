@@ -1,5 +1,5 @@
 {
-	"adstatus": false,
+	"adstatus": true,
 	"specificad": false,
 	"alternatead": false,
 	"alternate_data": {
