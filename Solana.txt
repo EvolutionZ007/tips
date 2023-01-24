@@ -1,56 +1,44 @@
-Pi is the latest digital cryptocurrency which has good value in the future.
-
-Welcome to the Pi Earn app which provides you the latest and secure way for Earn Piereum free.
-
-Pi Earn app helps you to Earn free Pi coin which can be convertable in BTC, PiT, Hexa, Pi, 
-Doges, Dogecoin, Bee, Eagle, Bitcoin, Satoshi, OK, Gemini, Gemina, SHIB, Matic later on. You can do
-Pi Exchange later on outside our app.
-
-More About our Pi Cloud Earn app:
-
-- Easy to use platform.
-- Manage the Piereum Earn process remotely on the real device.
-- Get more Pi by inviting friends to the project
-- Get Knowledge about Pi server Earn information in deep concept
-- For Piereum Earn, it does not require any kind of special permissions from the users.
-- Single Tap to start the process of Pi Earn
-- The phone is not used for the Piereum Earn process because it will on our cloud server rigs.
-
-Features of Pi Earn App:
-
-- Start free Pi Earn with single click.
-- Single Tap to start the process of Pi Earn.
-- Enable wallet system.
-- Highest Earn hash rate with our cloud rigs.
-- Welcome bonus for new users.
-- Referral bonus for each invited friends.
-- Free to Earn and easy to use platform.
-- Manage the Piereum Earn process remotely on the real device.
-- Get more Pi by inviting friends to the project.
-- Get Knowledge about Pi server Earn information in deep concept.
-- For Piereum Earn, it does not require any kind of special permissions from the users.
-- The phone is not used for the Piereum Earn process because it will on our cloud server rigs.
-  Our app provide below service directly or indirectly :
-- Coin Earn
-- Crypto Cloud
-- Digital Cryptocurrency
-- Crypto coin Earn
-- Cloud Earn
-- Doge Earn
-- Earn Piereum Coin
-- Coin Network
-- Earn Dogecoin Daily
-- Free Earn App
-- Pi server Earnr
-- Dogecoin Cloud Earn
-- Crypto Cloud Network
-- Earn and Earn BTC through Pi
-
-NOTE:
-There are a few rules you need to follow in order to avoid cancellations or suspensions:
-- Don’t try to change your device if it is not necessary.
-- Don’t create multiple and/or fake accounts.
-
-Disclaimer:
-
-This app does not utilize your device resources to Pi Earn. You can always verify this by looking at your device resource usage while the app is running.
+{
+	"adstatus": false,
+	"specificad": false,
+	"alternatead": false,
+	"alternate_data": {
+		"Appopen": "Admob",
+		"Interstrial": "Facebook",
+		"Native": "Facebook",
+		"Banner": "Admob"
+	},
+	"Admob": {
+		"Admob_adstatus": false,
+		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
+		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
+		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
+		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"Facebook": {
+		"FB_adstatus": false,
+		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"Applovin": {
+		"Applovin_adstatus": false,
+		"Applovin_Interstrial": "",
+		"Applovin_Native": "",
+		"Applovin_Banner": ""
+	},
+	"AdCounter": {
+		"Inter_count": 0,
+		"Native_Count": 0,
+		"Banner_Count": 0,
+		"Back_Inter_count":0,
+		"onResumeOpenAd": true
+	},
+	"NativeBlink": false,
+	"NativeBanner": false,
+	"AdDialog": false,
+	"BackAd": false,
+	"BackAdPlatform": "Admob",
+	"ExtraScreen": "1",
+	"PrivacyPolicy": ""
+}
