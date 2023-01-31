@@ -1,6 +1,6 @@
 {
-	"adstatus": false,
-	"specificad": false,
+	"adstatus": true,
+	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
@@ -16,10 +16,10 @@
 		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
 	},
 	"Facebook": {
-		"FB_adstatus": false,
-		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		"FB_adstatus": true,
+		"FB_Interstrial": "867392904513847_867393247847146",
+		"FB_Native": "867392904513847_867393204513817",
+		"FB_Banner": "867392904513847_867393444513793"
 	},
 	"Applovin": {
 		"Applovin_adstatus": false,
@@ -36,7 +36,7 @@
 	},
 	"NativeBlink": false,
 	"NativeBanner": false,
-	"AdDialog": false,
+	"AdDialog": true,
 	"BackAd": false,
 	"BackAdPlatform": "Admob",
 	"ExtraScreen": "3",
