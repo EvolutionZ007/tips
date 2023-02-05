@@ -9,14 +9,14 @@
 		"Banner": "Admob"
 	},
 	"Admob": {
-		"Admob_adstatus": false,
-		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
-		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
-		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
-		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+		"Admob_adstatus": true,
+		"Admob_Appopen": "/21753324030,22872210796/com.incresescore.creditcardvalidator_AppOpen",
+		"Admob_Interstrial": "/21753324030,22872210796/com.incresescore.creditcardvalidator_Interstitial",
+		"Admob_Native": "/21753324030,22872210796/com.incresescore.creditcardvalidator_Native",
+		"Admob_Banner": "/21753324030,22872210796/com.incresescore.creditcardvalidator_Banner"
 	},
 	"Facebook": {
-		"FB_adstatus": true,
+		"FB_adstatus": false,
 		"FB_Interstrial": "867392904513847_867393247847146",
 		"FB_Native": "867392904513847_867393204513817",
 		"FB_Banner": "867392904513847_867393444513793"
@@ -37,8 +37,8 @@
 	"NativeBlink": false,
 	"NativeBanner": false,
 	"AdDialog": true,
-	"BackAd": false,
-	"BackAdPlatform": "Admob",
+	"BackAd": true,
+	"BackAdPlatform": "Facebook",
 	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
