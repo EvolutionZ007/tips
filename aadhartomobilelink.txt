@@ -28,7 +28,7 @@
 		"Applovin_Banner": ""
 	},
 	"AdCounter": {
-		"Inter_count": 1,
+		"Inter_count": 0,
 		"Native_Count": 0,
 		"Banner_Count": 0,
 		"Back_Inter_count":0,
