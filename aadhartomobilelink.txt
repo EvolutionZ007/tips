@@ -11,7 +11,7 @@
 	"Admob": {
 		"Admob_adstatus": true,
 		"Admob_Appopen": "/29636627,22479114759/com.aadharlink.aadhartomobilenumberlink_app_open_1",
-		"Admob_Interstrial": "/29636627,22479114759/com.aadharlink.aadhartomobilenumberlink_interstitial_1",
+		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
 		"Admob_Native": "/29636627,22479114759/com.aadharlink.aadhartomobilenumberlink_native_1",
 		"Admob_Banner": "/29636627,22479114759/com.aadharlink.aadhartomobilenumberlink_banner_1"
 	},
