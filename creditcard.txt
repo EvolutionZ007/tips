@@ -9,14 +9,14 @@
 		"Banner": "Admob"
 	},
 	"Admob": {
-		"Admob_adstatus": true,
+		"Admob_adstatus": false,
 		"Admob_Appopen": "/21753324030,22872210796/com.incresescore.creditcardvalidator_AppOpen",
 		"Admob_Interstrial": "/21753324030,22872210796/com.incresescore.creditcardvalidator_Interstitial",
 		"Admob_Native": "/21753324030,22872210796/com.incresescore.creditcardvalidator_Native",
 		"Admob_Banner": "/21753324030,22872210796/com.incresescore.creditcardvalidator_Banner"
 	},
 	"Facebook": {
-		"FB_adstatus": false,
+		"FB_adstatus": true,
 		"FB_Interstrial": "867392904513847_867393247847146",
 		"FB_Native": "867392904513847_867393204513817",
 		"FB_Banner": "867392904513847_867393444513793"
@@ -32,7 +32,7 @@
 		"Native_Count": 0,
 		"Banner_Count": 0,
 		"Back_Inter_count":0,
-		"onResumeOpenAd": true
+		"onResumeOpenAd": false
 	},
 	"NativeBlink": false,
 	"NativeBanner": false,
