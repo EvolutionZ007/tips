@@ -1,6 +1,6 @@
 {
 	"adstatus": true,
-	"specificad": true,
+	"specificad": false,
 	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
@@ -16,7 +16,7 @@
 		"Admob_Banner": "/21753324030,22872210796/com.incresescore.creditcardvalidator_Banner"
 	},
 	"Facebook": {
-		"FB_adstatus": true,
+		"FB_adstatus": false,
 		"FB_Interstrial": "867392904513847_903963514190119",
 		"FB_Native": "867392904513847_903963660856771",
 		"FB_Banner": "867392904513847_903963620856775"
